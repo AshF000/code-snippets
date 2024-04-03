@@ -50,7 +50,7 @@ int main()
 
 
 /*
-
+    // TO CHECK ALL INPUT IN STRUCTURE
 for(int i=0;i<n;i++)
 {
     cout<<"Student - "<<i+1<<":"<<endl<<"ID: "<<stdnt[i].id<<endl<<"Gender: "<<stdnt[i].gender<<endl<<"CT Score: "<<stdnt[i].ct_score<<endl<<"Mid Score: "<<stdnt[i].mt_score<<endl<<"Final Score: "<<stdnt[i].fe_score<<endl<<endl;
